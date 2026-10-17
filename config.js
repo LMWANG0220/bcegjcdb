@@ -51,7 +51,7 @@ window.CARDS = [
 
   {
     title: '查看地下室防水施工方案交底资料',
-    link: 'https://www.kdocs.cnlcrFien0qF6I2',
+    link: 'https://www.kdocs.cn/l/crFien0qF6I2',
     tip: '长按识别二维码',
     btn: '直接打开'
   }
