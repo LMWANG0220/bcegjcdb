@@ -44,14 +44,14 @@ window.IMAGES = [
 window.CARDS = [
   {
     title: '查看轻量化模型',
-    link: 'httpsshare-xt.hwbim.comqlh0cb0250d25924991af1a958bf75dadd5',
+    link: 'https://share-xt.hwbim.com/qlh/8eba97a296494d32b4ec8b74f4a03a81',
     tip: '长按识别二维码',
     btn: '直接打开'
   },
 
   {
     title: '查看地下室防水施工方案交底资料',
-    link: 'httpswww.kdocs.cnlcrFien0qF6I2',
+    link: 'https://www.kdocs.cnlcrFien0qF6I2',
     tip: '长按识别二维码',
     btn: '直接打开'
   }
