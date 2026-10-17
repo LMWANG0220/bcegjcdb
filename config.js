@@ -9,17 +9,16 @@ window.VERSION = '1';
 
 /* ② 工艺名称 —— 页面顶部大字 + 微信标题
       例：桩头防水处理工艺样板展示 */
-window.TITLE = '【填工艺名称】';
+window.TITLE = '基础底板与地下室外墙防水卷材接槎做法';
 
 /* ③ 副标题 —— 顶部小字，可以是英文或工艺要点，不需要就写 '' */
-window.SUBTITLE = '【填副标题】';
+window.SUBTITLE = 'OVERLAP DETAIL OF WATERPROOF MEMBRANE FOR FOUNDATION SLAB AND BASEMENT OUTER WALL';
 
 /* ④ 效果图 —— 换成真实照片，文件名 1.jpg / 2.jpg / 3.jpg
       张数随便：多加一张就多写一行，少一张就删一行 */
 window.IMAGES = [
   'img/1.jpg',
-  'img/2.jpg',
-  'img/3.jpg'
+  'img/2.jpg'
 ];
 
 /* ============================================================
@@ -44,15 +43,15 @@ window.IMAGES = [
    ============================================================ */
 window.CARDS = [
   {
-    title: '查看【某某】轻量化模型',
-    link: '【填网址】',
+    title: '查看轻量化模型',
+    link: 'httpsshare-xt.hwbim.comqlh0cb0250d25924991af1a958bf75dadd5',
     tip: '长按识别二维码',
     btn: '直接打开'
   },
 
   {
-    title: '查看【某某】施工方案交底资料',
-    link: '【填网址】',
+    title: '查看地下室防水施工方案交底资料',
+    link: 'httpswww.kdocs.cnlcrFien0qF6I2',
     tip: '长按识别二维码',
     btn: '直接打开'
   }
